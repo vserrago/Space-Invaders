@@ -1,0 +1,27 @@
+TODO:
+need to fix defender going off screen to the right (should be a simple + defenderwidth to the movement code) --fixed?
+need to fix background not quite spanning the whole window.
+fix defender not rendering on level transitions --fixed?
+
+barriers (low priority)
+pause functionality
+mute functionality (low priority)
+
+Tyler-
+menus     (done)
+intro screen (done)
+multiple aliens (done)
+levels with increasing difficulty (done)
+
+Valentin-
+images for aliens (done)
+key movement (done)
+
+
+Edmund-
+scoring (done)
+
+
+Jeff-
+random bombs from badguy/s		(done in commit R15)
+Adding Music				(added sound fx in R13, music in R18, plus various updates after)
